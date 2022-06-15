@@ -38,15 +38,8 @@ List the ready features here:
 
 ## Usage
 we can use this website for finding images .
-we can add as many as images in website by repeating this code.
-<!-- <div class="photos"> 
-                          <img src="FirstPhoto.jpg" alt="firstPhoto" width="100%" height="100%"/>
-                        
-                    </div>
-                    <div class="photosDescription">
-                        <h2>First photo</h2>
-                        <p> Image of nature and roads at the sunset in winters </p>
-                    </div> -->
+we can add as many as images in website.
+
 
 
 ## Project Status
