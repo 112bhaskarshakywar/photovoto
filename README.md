@@ -1,6 +1,6 @@
 # photoVoto
 > photovoto is a website which shows photos of different varities
-> Live demo [](https://photovoto.netlify.app/). 
+> Live demo [here](https://photovoto.netlify.app/). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -33,14 +33,14 @@ List the ready features here:
 
 
 ## Screenshots
-![screenshot](./img/screenshot.png)
+![screenshot](.screenshot.png)
 
 
 ## Usage
 we can use this website for finding images .
 we can add as many as images in website by repeating this code.
 `<div class="photos">
-                          <img src="firstPhoto.jpg" alt="firstPhoto" width="100%" height="100%"/>
+                          <img src="FirstPhoto.jpg" alt="firstPhoto" width="100%" height="100%"/>
                         
                     </div>
                     <div class="photosDescription">
