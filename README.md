@@ -1,6 +1,6 @@
 # photoVoto
 > photovoto is a website which shows photos of different varities
-> Live demo [here](https://photovoto.netlify.app/). 
+> Live demo [https://photovoto.netlify.app/](). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -20,7 +20,7 @@
 - it is a basic website build for learning html and css and their properties
 - As i have interest in images and their use in coversation so i follow and understand about img tag and different tag of html and to understand css propertise i choosed this project.
 
-##Technologies Used
+## technologies used
 - html5 and lower
 - css 
 
@@ -69,6 +69,6 @@ Give credit here.
 
 
 ## Contact
-Created by [@flynerdpl](112bhaskarshakywar@gmail.com) - feel free to contact me!
+Created by [112bhaskarshakywar@gmail.com](@flynerdpl) - feel free to contact me!
 
 
